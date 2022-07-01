@@ -1,0 +1,102 @@
+@model List<Emprestimo>
+@{
+    ViewData["Title"] = "Listagem de Empréstimos";
+    string classe = "";
+     
+    
+    int FiltroPorPag = Int32.Parse(ViewData["livrosPorPagina"].ToString());
+    int PaginaAtual = Int32.Parse(ViewData["PaginaAtual"].ToString());
+    int NumLivroPorPag = (Model.Count < FiltroPorPag ? Model.Count : FiltroPorPag);
+     
+    int NumTotalDePag = 0;
+     if(NumLivroPorPag > 0)
+    { 
+        NumTotalDePag = Model.Count / NumLivroPorPag + (Model.Count % NumLivroPorPag==0 ? 0 : 1); 
+    }
+   
+}
+
+<div class="row">
+    <div class="col-md-12">
+    <form class="form-inline" method="POST">
+        <div class="form-group mb-2">
+            <select name="TipoFiltro" class="form-control">
+                <option value="Usuario">Usuário</option>
+                <option value="Livro">Livro</option>
+            </select>
+        </div>
+        <div class="form-group mb-2 mx-sm-3">
+            <input type="text" placeholder="Filtro" name="Filtro" class="form-control" />
+        </div>
+
+         <div>
+                <select name="itensPorPagina" id="itensPorPagina">
+                    <option value="10">Livros</option>
+                    <option value=@Model.Count > Todos</option>
+                    
+                </select>
+            </div>
+
+        <button type="submit" class="btn btn-primary mb-2">Pesquisar</button>
+
+         <div id="SeletorPaginas">
+                @for (int i = 1; i <= NumTotalDePag; i++)
+                {
+                    <span><a href="/Emprestimo/Listagem?PaginaAtual=@i"> @i,</a></span>
+                }
+            </div>
+    </form>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+ 
+ @if (Model.Count != 0)
+        {
+        
+                    <table  class="table table-striped"> 
+                        <thead>
+                            <tr><th>Id</th>
+                            <th>Usuario</th>
+                            <th>Data Empréstimo</th>
+                            <th>Data Devolução</th>
+                            <th>Tituo do Livro</th>
+                            <th>Autor</th>
+                            <th></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            alerta de emprestimo atrazado
+                        
+                                                
+                                                @for(int i = (PaginaAtual-1) * NumLivroPorPag; i < (NumLivroPorPag * PaginaAtual < Model.Count ? NumLivroPorPag * PaginaAtual : Model.Count); i++)
+                                                {
+                                                    if(System.DateTime.Compare(System.DateTime.Now,Model[i].DataDevolucao)>0){
+                                                    classe="text-danger";
+                                                    }else{classe="";}
+                                                
+                                            <tr class="@classe">
+                                                <td>@Model[i].Id</td>
+                                                <td>@Model[i].NomeUsuario</td>
+                                                <td>@Model[i].DataEmprestimo.ToString("dd/MM/yyyy")</td>
+                                                <td>@Model[i].DataDevolucao.ToString("dd/MM/yyyy")</td>
+                                                <td>@Model[i].Livro.Titulo</td>
+                                                <td>@Model[i].Livro.Autor</td>
+                                                <td><a href="/Emprestimo/Edicao/@Model[i].Id">Editar</a></td>
+                                            </tr>
+                                                    
+                                                }
+                                
+
+                            
+                        </tbody>
+                    </table>
+        }  
+        else
+        {
+            <strong class="text-center">Nenhum registro encontrado</strong>
+        }
+    </div>
+</div>
+

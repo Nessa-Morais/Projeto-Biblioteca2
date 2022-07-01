@@ -1,0 +1,232 @@
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\bin\Debug\netcoreapp3.1\appsettings.Development.json
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\bin\Debug\netcoreapp3.1\appsettings.json
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.exe
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.deps.json
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.json
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.dev.json
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.dll
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.pdb
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.Views.dll
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.Views.pdb
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csprojAssemblyReference.cache
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfoInputs.cache
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfo.cs
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CoreCompileInputs.cache
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.MvcApplicationPartsAssemblyInfo.cache
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cache
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cs
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.input.cache
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.output.cache
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorCoreGenerate.cache
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Cadastro.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Edicao.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Listagem.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Cadastro.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Edicao.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Listagem.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\_FormCadastro.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorTargetAssemblyInfo.cache
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorTargetAssemblyInfo.cs
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.Views.pdb
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CopyComplete
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.Manifest.cache
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.xml
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.dll
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.pdb
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Cadastro.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Listagem.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\NeedAdmin.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Editar.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\UC07Documentar_manutençãoEmaplicação_web\ATV2\atv2Uc07JairoCesar\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Excluirusuario.cshtml.g.cs
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\bin\Debug\netcoreapp3.1\Biblioteca.exe
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\bin\Debug\netcoreapp3.1\Biblioteca.deps.json
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.json
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.dev.json
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\bin\Debug\netcoreapp3.1\Biblioteca.dll
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\bin\Debug\netcoreapp3.1\Biblioteca.pdb
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\bin\Debug\netcoreapp3.1\Biblioteca.Views.dll
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\bin\Debug\netcoreapp3.1\Biblioteca.Views.pdb
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\obj\Debug\netcoreapp3.1\Biblioteca.csprojAssemblyReference.cache
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfo.cs
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\obj\Debug\netcoreapp3.1\Biblioteca.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cache
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cs
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.input.cache
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.output.cache
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\obj\Debug\netcoreapp3.1\Biblioteca.RazorCoreGenerate.cache
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Cadastro.cshtml.g.cs
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Edicao.cshtml.g.cs
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Listagem.cshtml.g.cs
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Cadastro.cshtml.g.cs
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Edicao.cshtml.g.cs
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Listagem.cshtml.g.cs
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\obj\Debug\netcoreapp3.1\Razor\Views\Livro\_FormCadastro.cshtml.g.cs
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Cadastro.cshtml.g.cs
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Editar.cshtml.g.cs
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Excluirusuario.cshtml.g.cs
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Listagem.cshtml.g.cs
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\NeedAdmin.cshtml.g.cs
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\obj\Debug\netcoreapp3.1\Biblioteca.RazorTargetAssemblyInfo.cache
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\obj\Debug\netcoreapp3.1\Biblioteca.RazorTargetAssemblyInfo.cs
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\obj\Debug\netcoreapp3.1\Biblioteca.Views.pdb
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CopyComplete
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.Manifest.cache
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.xml
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\obj\Debug\netcoreapp3.1\Biblioteca.dll
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\obj\Debug\netcoreapp3.1\Biblioteca.pdb
+C:\Users\Vanessa\Downloads\bibiotecaAtv2JairoCesar-master\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\bin\Debug\netcoreapp3.1\Biblioteca.exe
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\bin\Debug\netcoreapp3.1\Biblioteca.deps.json
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.json
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.dev.json
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\bin\Debug\netcoreapp3.1\Biblioteca.dll
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\bin\Debug\netcoreapp3.1\Biblioteca.pdb
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\bin\Debug\netcoreapp3.1\Biblioteca.Views.dll
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\bin\Debug\netcoreapp3.1\Biblioteca.Views.pdb
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\obj\Debug\netcoreapp3.1\Biblioteca.csprojAssemblyReference.cache
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfo.cs
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\obj\Debug\netcoreapp3.1\Biblioteca.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cache
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cs
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.input.cache
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.output.cache
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\obj\Debug\netcoreapp3.1\Biblioteca.RazorCoreGenerate.cache
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Cadastro.cshtml.g.cs
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Edicao.cshtml.g.cs
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Listagem.cshtml.g.cs
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Cadastro.cshtml.g.cs
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Edicao.cshtml.g.cs
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Listagem.cshtml.g.cs
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\obj\Debug\netcoreapp3.1\Razor\Views\Livro\_FormCadastro.cshtml.g.cs
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Cadastro.cshtml.g.cs
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Editar.cshtml.g.cs
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Excluirusuario.cshtml.g.cs
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Listagem.cshtml.g.cs
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\NeedAdmin.cshtml.g.cs
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\obj\Debug\netcoreapp3.1\Biblioteca.RazorTargetAssemblyInfo.cache
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\obj\Debug\netcoreapp3.1\Biblioteca.RazorTargetAssemblyInfo.cs
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\obj\Debug\netcoreapp3.1\Biblioteca.Views.pdb
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CopyComplete
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.Manifest.cache
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.xml
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\obj\Debug\netcoreapp3.1\Biblioteca.dll
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\obj\Debug\netcoreapp3.1\Biblioteca.pdb
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\bibioteca2\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\obj\Debug\netcoreapp3.1\Biblioteca.csprojAssemblyReference.cache
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfo.cs
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\obj\Debug\netcoreapp3.1\Biblioteca.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cache
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cs
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\obj\Debug\netcoreapp3.1\Biblioteca.dll
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\obj\Debug\netcoreapp3.1\Biblioteca.pdb
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\bin\Debug\netcoreapp3.1\Biblioteca.exe
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\bin\Debug\netcoreapp3.1\Biblioteca.deps.json
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.json
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.dev.json
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\bin\Debug\netcoreapp3.1\Biblioteca.dll
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\bin\Debug\netcoreapp3.1\Biblioteca.pdb
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\bin\Debug\netcoreapp3.1\Biblioteca.Views.dll
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\bin\Debug\netcoreapp3.1\Biblioteca.Views.pdb
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.input.cache
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.output.cache
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorCoreGenerate.cache
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Cadastro.cshtml.g.cs
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Edicao.cshtml.g.cs
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Listagem.cshtml.g.cs
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Cadastro.cshtml.g.cs
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Edicao.cshtml.g.cs
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Listagem.cshtml.g.cs
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\_FormCadastro.cshtml.g.cs
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Cadastro.cshtml.g.cs
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Editar.cshtml.g.cs
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Excluirusuario.cshtml.g.cs
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Listagem.cshtml.g.cs
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\NeedAdmin.cshtml.g.cs
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorTargetAssemblyInfo.cache
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorTargetAssemblyInfo.cs
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\obj\Debug\netcoreapp3.1\Biblioteca.Views.pdb
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CopyComplete
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.Manifest.cache
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.xml
+C:\Users\Vanessa\SENAC\UC 07\Atividade 2\Bibioteca\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache

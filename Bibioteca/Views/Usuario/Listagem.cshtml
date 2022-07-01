@@ -1,0 +1,40 @@
+@model ICollection<Usuario>
+@{
+    ViewData["Title"] = "Listagem de Empréstimos";
+}
+
+
+
+<div class="row">
+    <div class="col-md-12">
+
+        
+        <table  class="table"> 
+            <thead>
+                <tr><th>Id</th>
+                <th>Usuario</th>
+                <th>Login</th>
+                <th>Tipo</th>
+                
+                </tr>
+            </thead>
+            <tbody>
+                @foreach(Usuario u in Model)
+                {
+                <tr>
+                    <td>@u.Id</td>
+                    <td>@u.Nome</td>
+                    <td>@u.Login</td>
+                    <td>@u.Tipo</td>
+                   
+                    <td><a href="/Usuario/Editar?id=@u.Id">Editar</a></td>
+                    <td><a href="/Usuario/Excluirusuario?id=@u.Id">Excluir</a></td>
+                </tr>
+                }
+
+                <td><a href="/Usuario/Cadastro/">Cadastrar um novo usuario</a></td>
+            </tbody>
+        </table>
+    </div>
+</div>
+
